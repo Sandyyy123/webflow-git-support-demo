@@ -1,0 +1,22 @@
+[
+  {
+    "fields": {
+      "cta-label": "Read FAQ",
+      "headline": "Questions, answered",
+      "is-published": true
+    },
+    "id": "item-faq",
+    "name": "FAQ Block",
+    "slug": "faq-block"
+  },
+  {
+    "fields": {
+      "cta-label": "Get started",
+      "headline": "Plan for your baby's future",
+      "is-published": true
+    },
+    "id": "item-hero",
+    "name": "Landing Hero",
+    "slug": "landing-hero"
+  }
+]
